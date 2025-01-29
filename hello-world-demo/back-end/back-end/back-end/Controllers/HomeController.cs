@@ -1,8 +1,8 @@
 using System.Diagnostics;
-using capstone_back_end.Models;
+using back_end.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace capstone_back_end.Controllers
+namespace back_end.Controllers
 {
     public class HomeController : Controller
     {

@@ -1,4 +1,4 @@
-namespace capstone_back_end
+namespace back_end
 {
     public class Program
     {
